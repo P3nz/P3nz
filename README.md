@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @P3nz
+- 👀 I’m interested in ... streaming, osx, apps, homebrew 
+- 🌱 I’m currently learning ... Java script
+- 💞️ I’m looking to collaborate on ... Apps and homebrew
+- 📫 How to reach me ... P3nz@gmail.com
